@@ -6,16 +6,16 @@ class Comida : IConsumible
     public bool EsDulce {get;set;}
     public string GetInfo()
     {
-        string mensaje = $"{Nombre} (Comida) Calorias: {Calorias} ";
+        string mensaje = $"{Nombre} (Comida) Calorias: {Calorias}, ";
         if(EsPicante){
-            mensaje += "Es picante: Si ";
+            mensaje += "Es picante: Si, ";
         }else{
-            mensaje += "Es picante: No ";
+            mensaje += "Es picante: No, ";
         }
         if(EsDulce){
-            mensaje += "Es dulce: Si";
+            mensaje += "Es dulce: Si.";
         }else{
-            mensaje += "Es dulce: No";
+            mensaje += "Es dulce: No.";
         }
         return mensaje;
     }
