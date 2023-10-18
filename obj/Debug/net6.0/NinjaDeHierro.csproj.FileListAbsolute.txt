@@ -1,0 +1,15 @@
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaDeHierro\bin\Debug\net6.0\NinjaDeHierro.exe
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaDeHierro\bin\Debug\net6.0\NinjaDeHierro.deps.json
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaDeHierro\bin\Debug\net6.0\NinjaDeHierro.runtimeconfig.json
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaDeHierro\bin\Debug\net6.0\NinjaDeHierro.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaDeHierro\bin\Debug\net6.0\NinjaDeHierro.pdb
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaDeHierro\obj\Debug\net6.0\NinjaDeHierro.csproj.AssemblyReference.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaDeHierro\obj\Debug\net6.0\NinjaDeHierro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaDeHierro\obj\Debug\net6.0\NinjaDeHierro.AssemblyInfoInputs.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaDeHierro\obj\Debug\net6.0\NinjaDeHierro.AssemblyInfo.cs
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaDeHierro\obj\Debug\net6.0\NinjaDeHierro.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaDeHierro\obj\Debug\net6.0\NinjaDeHierro.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaDeHierro\obj\Debug\net6.0\refint\NinjaDeHierro.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaDeHierro\obj\Debug\net6.0\NinjaDeHierro.pdb
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaDeHierro\obj\Debug\net6.0\NinjaDeHierro.genruntimeconfig.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\NinjaDeHierro\obj\Debug\net6.0\ref\NinjaDeHierro.dll
